@@ -13,7 +13,7 @@ export const AboutItem = () => {
 
         let name: string = 'ciclano'
 
-        navigate(`/sobre/${name}`);
+        navigate(`/`);
     }
 
     return (
